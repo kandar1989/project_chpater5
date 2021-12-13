@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "username": "kandar1989",
+    "password": "123456",
+    "email" : "iskandar.maulana.putera@gmail.com",
+    "mobile" : "0811681989",
+    "gender" : "male"
+  },
+  {
+    "id": 2,
+    "username": "abcde",
+    "password": "abcde",
+    "email" : "iskandar.putera@gmail.com",
+    "mobile" : "0811681989",
+    "gender" : "male"
+  }
+]
